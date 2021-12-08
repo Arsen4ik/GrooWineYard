@@ -1,0 +1,309 @@
+body {
+    margin: 0;
+    background-color: rgba(0.733);
+}
+
+.body2 {
+    background-color: cornsilk;
+}
+
+/* ///////////////////// */
+
+.img00 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+.HD {
+    background-color: black;
+    height: 100px;
+    width: 100%;
+    position: relative;
+    /* display: flex;
+    justify-content: space-around; */
+}
+
+.div2 {
+     display: flexbox;
+    /* justify-content: space-between;      */
+    justify-content: space-between;
+}
+
+.paint {
+    height: 50px;
+    width: 50px;
+    background-color: rgb(149, 206, 16);
+    border-radius: 20px;
+    /* margin: 0;  */
+    top: 28px;
+    position: absolute; 
+    left: 95%; 
+}
+
+.text {
+    color: rgb(118, 173, 255);
+    position: absolute; 
+    margin-top: 33px;
+    margin-left: 40%;
+    font-size: 30px;
+}
+
+.a1 {
+    color: rgb(255, 255, 255);
+}
+
+.a2 {
+    color: rgb(255, 255, 255);
+}
+
+.text2 {
+    color: rgb(118, 173, 255);
+    position: absolute; 
+    margin-top: 33px;
+    margin-left: 20%; 
+    font-size: 30px;
+}
+
+.round {
+    background-color: rgb(255, 0, 0);
+    height: 50px;
+    width: 50px;
+    border-radius: 35px;
+     margin-top: 25px;
+    margin-left: 25px; 
+
+    position: absolute; 
+}
+
+.paintRound {
+    position: relative;
+    width: 30px;
+    height: 40px;
+    left: 10px;
+    top: 3px;
+}
+
+.btn {
+    background-color: rgb(78, 145, 245);
+    border: 1px solid rgb(51, 51, 59);
+    border-radius: 20px;
+    height: 35px; 
+    width: 170px;
+    /* margin: 0;  */
+    margin-top: 35px;
+    margin-left: 65%; 
+    position: absolute; 
+}
+
+/* //////////////////////// */
+
+.div-container {
+    margin-top: 70px;
+    margin-left: 30px;
+    display: flex;
+    flex-flow: row wrap;
+    margin: 30px;
+}
+
+ /* .div21 {
+    background-color: rgb(73, 72, 72);
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    border-radius: 10px;
+    position: relative;
+}
+
+.v1 {
+    color: white;
+    margin-top: 80%;
+    margin-left: 7%;
+    font-size: 1.5em;
+}
+
+.v2 {
+    color: rgb(235, 55, 10);
+    font-size: 2em;
+    margin-left: 40%;
+    margin-top: -10%;
+}
+
+.v3 {
+    color: white;
+    margin-left: 62%;
+    margin-top: -7%;
+}
+
+.paint211 {
+    border-radius: 20px;
+    width: 100%;
+    height: 100%;
+    left: 30px;
+}
+
+.btn21 {
+    width: 80px;
+    height: 80px;
+    background-color: rgb(255, 115, 0);
+    margin-left: 76%;
+    margin-top: -10%;
+    border-radius: 40px;
+    border: 3px solid yellow;
+}
+
+.paint21 {
+    width: 50px;
+    height: 50px;
+} */
+
+/* ////////////////// */
+
+.div211 {
+    height: 310px;
+    width: 320px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 15px;
+    margin-left: 15px;
+    position: absolute;
+    border-radius: 20px;
+}
+
+/* ////////////////// */
+
+.div22 {
+    background-color: rgb(73, 72, 72);
+    margin: 20px;
+    height: 400px;
+    width: 350px;
+    border-radius: 10px;
+    position: relative;
+}
+
+.v4 {
+    color: white;
+    font-size: 1.5em;
+    margin-top: 97%;
+    margin-left: 7%;
+}
+
+.v5 {
+    color: rgb(235, 55, 10);
+    font-size: 2em;
+    margin-left: 25%;
+    margin-top: -31px;
+}
+
+.v6 {
+    color: white;
+    margin-left: 50%;
+    margin-top: -7%;
+}
+
+.paint221 {
+    border-radius: 20px;
+    width: 100%;
+    height: 100%;
+    left: 30px;
+}
+
+.btn22 {
+    width: 80px;
+    height: 80px;
+    background-color: rgb(255, 115, 0);
+    margin-left: 76%;
+    margin-top: -10%;
+    border-radius: 40px;
+    border: 3px solid yellow;
+}
+
+.paint22 {
+    width: 50px;
+    height: 50px;
+}
+
+/* ///////////////////// */
+
+ .div23 {
+    background-color: rgb(73, 72, 72);
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    border-radius: 10px;
+    position: relative;
+}
+
+.v7 {
+    color: white;
+    font-size: 1.5em;
+    margin-top: 80%;
+    margin-left: 7%;
+}
+
+.v8 {
+    color: rgb(235, 55, 10);
+    font-size: 2em;
+    margin-left: 25%;
+    margin-top: -3%;
+}
+
+.v9 {
+    color: white;
+    margin-left: 43%;
+    margin-top: -7%;
+}
+
+.paint222 {
+    border-radius: 20px;
+    width: 100%;
+    height: 100%;
+    left: 30px;
+}
+
+.btn23 {
+    width: 80px;
+    height: 80px;
+    background-color: rgb(255, 115, 0);
+    margin-left: 76%;
+    margin-top: -20%;
+    border-radius: 40px;
+    border: 3px solid yellow;
+}
+
+.paint23 {
+    width: 50px;
+    height: 50px;
+}
+
+/* /////////////////// */
+
+/* .div24 {
+    background-color: rgb(73, 72, 72);
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    border-radius: 10px;
+}
+.div25 {
+    background-color: rgb(73, 72, 72);
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    border-radius: 10px;
+}
+.div26 {
+    background-color: rgb(73, 72, 72);
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    border-radius: 10px;
+}  */
+
+.textT {
+    font-size: 30px;
+    height: 200px;
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
